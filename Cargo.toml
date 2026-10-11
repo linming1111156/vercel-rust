@@ -3,7 +3,7 @@ name = "nzws-rust"
 version = "0.1.0"
 edition = "2024"
 rust-version = "1.85"
-description = "nzws-rust: VLESS/Trojan/SS websocket proxy + Nezha agent (Rust port of nzws-js)"
+description = "sj-rust: 221"
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }
