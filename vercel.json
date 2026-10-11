@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "rust",
+  "regions": ["sin1"],
+  "fluid": true,
+  "functions": {
+    "src/main.rs": {
+      "maxDuration": "max"
+    }
+  }
+}
